@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "65EA8E8D-B0A3-4123-9BDA-E5ED31667B0D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C8970D3-47E7-45D0-9D95-BD546310AF9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C8970D3-47E7-45D0-9D95-BD546310AF9C - 3eaf3be8c5d8aa05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "4C8970D3-47E7-45D0-9D95-BD546310AF9C - 3eaf3be8c5d8aa05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "4C8970D3-47E7-45D0-9D95-BD546310AF9C - 3eaf3be8c5d8aa47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "537B52B4-0827-4393-BF02-1A48E2D7CB6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B474C1AE-A353-4B08-8CB6-483919FDAC5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B474C1AE-A353-4B08-8CB6-483919FDAC5B - 3eaf3be8c5d8ab2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "B474C1AE-A353-4B08-8CB6-483919FDAC5B - 3eaf3be8c5d8ab0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A986DED8-607D-4F59-8458-1937B1C67A48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A986DED8-607D-4F59-8458-1937B1C67A48 - f4042a14737fd2bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.User.__allocating_init() -&gt; SampleRealmBackup.User"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A986DED8-607D-4F59-8458-1937B1C67A48 - aab15612450654bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.User.init() -&gt; SampleRealmBackup.User"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A986DED8-607D-4F59-8458-1937B1C67A48 - b8eaad122d61b133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.User.__deallocating_deinit"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A986DED8-607D-4F59-8458-1937B1C67A48 - 3eaf3be8c5d8a834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEC46835-CC53-40DE-A235-1E7BA8972A4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EEC46835-CC53-40DE-A235-1E7BA8972A4B - 3eaf3be8c5d8ab0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "EEC46835-CC53-40DE-A235-1E7BA8972A4B - 3eaf3be8c5d8ab0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10122607-CD42-4313-97C9-6D1E6C4FE3CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "tapBackupButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10122607-CD42-4313-97C9-6D1E6C4FE3CD - 3eaf3be8c5d8aac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "10122607-CD42-4313-97C9-6D1E6C4FE3CD - d11f3ecb43865010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapBackupButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBB3B860-E9EA-446C-BC8D-0F13D8C81117"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBB3B860-E9EA-446C-BC8D-0F13D8C81117 - 3eaf3be8c5d8a8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+               <Location
+                  uuid = "BBB3B860-E9EA-446C-BC8D-0F13D8C81117 - 3eaf3be8c5d8a8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C60B0C3A-51D7-435D-B2FB-DFF10573059D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C60B0C3A-51D7-435D-B2FB-DFF10573059D - 3eaf3be8c5d8a8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+               <Location
+                  uuid = "C60B0C3A-51D7-435D-B2FB-DFF10573059D - 3eaf3be8c5d8a891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4102E0C-931F-4CF5-A1FA-7A15A72FD1A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleRealmBackup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tapRestoreButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4102E0C-931F-4CF5-A1FA-7A15A72FD1A5 - 3eaf3be8c5d8a8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "C4102E0C-931F-4CF5-A1FA-7A15A72FD1A5 - 3eaf3be8c5d8a8b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleRealmBackup.ViewController.tapRestoreButton(Any) -&gt; ()"
+                  moduleName = "SampleRealmBackup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleRealmBackup/SampleRealmBackup/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
